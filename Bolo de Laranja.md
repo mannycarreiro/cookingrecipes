@@ -1,6 +1,10 @@
 # BOLO DE LARANJA
 
-### INGREDIENTES
+<img src="images/BoloLaranja_pic.jpg" alt="Bolo de Laranja" width="250"/>
+
+<br>
+
+## INGREDIENTES
 
 * 500 gr de acucar
 * 6 ovos
@@ -10,7 +14,7 @@
 
 <br>
 
-### PREPARACAO
+## PREPARACAO
 
 1. Bate-se as gemas com o acucar
 2. Adiciona-se a manteiga e o sumo de laranja aos poucos, sempre batendo.
