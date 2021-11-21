@@ -1,6 +1,6 @@
 # BOLO DE LARANJA
 
-<img src="images/BoloLaranja_pic.jpg" alt="Bolo de Laranja" width="250"/>
+![Bolo de Laranja](images/BoloLaranja_pic.jpg)
 
 <br>
 

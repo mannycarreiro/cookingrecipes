@@ -1,6 +1,6 @@
 # BOLO DE ANANAS
 
-<img src="images/BolodeAnanas_pic.jpeg" alt="Bolo de Ananas" width="250"/>
+![Bolo de Ananas](images/BolodeAnanas_pic.jpeg)
 
 <br>
 

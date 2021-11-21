@@ -1,0 +1,8 @@
+site_name: "Manny's Recipes"
+site_url: http://example.com
+nav:
+  - Home: index.md
+  - Recipes: '/recipes/'
+#theme: readthedocs
+plugins:
+  - search
