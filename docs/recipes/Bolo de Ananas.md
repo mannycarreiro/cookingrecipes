@@ -4,7 +4,7 @@
 
 <br>
 
-## INGREDIENTES
+## INGREDIENTES { data-search-exclude }
 
 * 400 gr de farinha com fermento
 * 500 gr de acucar
@@ -14,7 +14,7 @@
 
 <br>
 
-## PREPARACAO
+## PREPARACAO { data-search-exclude }
 
 1. Caramelizar a forma 300 gr de acucar e um pouco de agua.
 2. Untar a forma com manteiga

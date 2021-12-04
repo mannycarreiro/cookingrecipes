@@ -4,7 +4,7 @@
 
 <br>
 
-## INGREDIENTES
+## INGREDIENTES { data-search-exclude }
 
 * 500 gr de acucar
 * 6 ovos
@@ -14,7 +14,7 @@
 
 <br>
 
-## PREPARACAO
+## PREPARACAO { data-search-exclude }
 
 1. Bate-se as gemas com o acucar
 2. Adiciona-se a manteiga e o sumo de laranja aos poucos, sempre batendo.
