@@ -1,8 +1,21 @@
 site_name: "Manny's Recipes"
-site_url: http://example.com
-nav:
-  - Home: index.md
-  - Recipes: '/recipes/'
-#theme: readthedocs
+site_url: http://localhost:8000
+#nav:
+#  - ...
+#  - Home: index.md
+theme:
+  name: material
+  locale: en
+  include_sidebar: false
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.instant
 plugins:
-  - search
+    - search
+    - awesome-pages
+    - exclude-search
+markdown_extensions:
+    - attr_list
+    - md_in_html
+    - meta
